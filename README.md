@@ -27,7 +27,8 @@ Techstack:
 <img width="812" alt="iter3 ss" src="https://user-images.githubusercontent.com/101921758/218089615-fdc42683-6c8c-496f-95eb-cb44bd75e122.png">
 
 
-6.Iter4 -  curl -X POST localhost:3000/recipes/ -H "Content-Type: application/json" -d '{"recipe_id":3, "user_id": 1, "recipe_name":"Halibut fish and chips"}’
+6.Iter4 -  cargo run --bin iter 4 then do a curl request. See below:
+curl -X POST localhost:3000/recipes/ -H "Content-Type: application/json" -d '{"recipe_id":3, "user_id": 1, "recipe_name":"Halibut fish and chips"}’
 
 <img width="863" alt="Screenshot 2023-02-10 at 11 47 15 AM" src="https://user-images.githubusercontent.com/101921758/218034915-2b0468ab-0d39-4d8b-bec5-a2b769318cfc.png">
 
