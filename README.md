@@ -11,7 +11,7 @@ Users can add in their food recipe.
 <img width="1262" alt="Screenshot 2023-02-08 at 11 41 04 PM" src="https://user-images.githubusercontent.com/101921758/218034423-42dd825c-3639-4119-8fc3-65b243a1d105.png">
 
 
-3)Iter1 - cargo check --bin iter 1 
+3)Iter1 - cargo run --bin iter 1 
 <img width="891" alt="Screenshot 2023-02-10 at 10 23 10 AM" src="https://user-images.githubusercontent.com/101921758/218034464-3b83b9e3-f607-42cb-97d2-0f829258bff4.png">
 
 4)Iter2 - cargo check --bin iter 2
