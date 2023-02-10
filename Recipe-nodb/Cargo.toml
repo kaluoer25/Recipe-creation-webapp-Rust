@@ -1,0 +1,20 @@
+[package]
+name = "Recipe-nodb"
+version = "0.1.0"
+edition ="2021"
+default-run = "user-service"
+
+
+[dependencies]
+actix-web = "4.2.1"
+actix-rt = "2.7.0"
+serde = { version = "1.0.144", features = ["derive"]}
+chrono = { version = "0.4.22", features = ["serde"]}
+
+
+
+[[bin]]
+name = "basic-server"
+
+[[bin]]
+name = "user-service"
