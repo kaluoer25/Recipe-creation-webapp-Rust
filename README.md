@@ -3,6 +3,12 @@
 This is a backend food recipe creation webapp written in Rust. 
 Users can add in their food recipe. 
 
+Techstack:
+1) Rust
+2) Actix-web
+3) PostgresSQL 
+4) curl
+
 1) Health check result
 
 <img width="1265" alt="Screenshot 2023-02-08 at 11 44 52 PM" src="https://user-images.githubusercontent.com/101921758/218033720-b1f08dfb-1c2f-4b81-b437-2b214f7870aa.png">
