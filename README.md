@@ -18,7 +18,8 @@ Users can add in their food recipe.
 <img width="814" alt="Screenshot 2023-02-10 at 11 07 52 AM" src="https://user-images.githubusercontent.com/101921758/218034573-9295e958-ebcf-4f36-8d4d-45055ed5fdc9.png">
 
 5)Iter3 - cargo check --bin iter 3
-<img width="814" alt="Screenshot 2023-02-10 at 11 07 52 AM" src="https://user-images.githubusercontent.com/101921758/218034700-88a985c0-cab6-417d-a3f7-3c870b124ecd.png">
+<img width="812" alt="iter3 ss" src="https://user-images.githubusercontent.com/101921758/218089615-fdc42683-6c8c-496f-95eb-cb44bd75e122.png">
+
 
 6)Iter4 -  curl -X POST localhost:3000/recipes/ -H "Content-Type: application/json" -d '{"recipe_id":3, "user_id": 1, "recipe_name":"Halibut fish and chips"}’
 
