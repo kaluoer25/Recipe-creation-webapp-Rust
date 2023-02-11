@@ -39,7 +39,7 @@ curl -X POST localhost:3000/recipes/ -H "Content-Type: application/json" -d '{"r
 ##
 
 Database posgres: 
-Added tables
+Added tables. There are total 3 database created to 
 
 <img width="486" alt="Screenshot 2023-02-10 at 8 26 15 PM" src="https://user-images.githubusercontent.com/101921758/218092409-567b5207-4bc6-48b9-b43d-be97ed287b4f.png">
  
